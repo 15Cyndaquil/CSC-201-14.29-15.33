@@ -4,6 +4,14 @@
         "source": "C:\\Users\\jtg22\\Documents\\GitHub\\AndroidStudio\\CSC-201-14.29&15.33\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\jtg22\\Documents\\GitHub\\AndroidStudio\\CSC-201-14.29-15.33\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\jtg22\\Documents\\GitHub\\AndroidStudio\\CSC-201-14.29-15.33\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jtg22\\Documents\\GitHub\\AndroidStudio\\CSC-201-14.29-15.33\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jtg22\\Documents\\GitHub\\AndroidStudio\\CSC-201-14.29-15.33\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\jtg22\\Documents\\GitHub\\AndroidStudio\\CSC-201-14.29&15.33\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
         "source": "C:\\Users\\jtg22\\Documents\\GitHub\\AndroidStudio\\CSC-201-14.29&15.33\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     }
